@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1538068800 source:c:\users\ethan\documents\c++ stuff\curse of kavorn\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
